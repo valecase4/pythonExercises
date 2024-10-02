@@ -4,7 +4,7 @@ my_list = ["banana", "apple", "orange", "banana", "cherry", "peach", "apple", "p
 
 # Write a program that counts the frequency of each item in the list and stores the results in a dictionary
 
-######### SOLUTION
+######### SOLUTION #########
 
 my_dictionary = {}
 
